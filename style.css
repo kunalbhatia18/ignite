@@ -370,12 +370,12 @@ button:active{
 	font-size: 2rem;
 	padding: 15px;
 	background: #2ecc71;
-	border-radius: 10px;
+	border-radius: 30px;
 	color: white;
 	margin-left: 50px;
 	margin-right: 50px;
 	width: 200px;
-	margin: 10px;
+	margin: 20px;
 	display: inline-block;
 	cursor: pointer;
 
@@ -386,9 +386,7 @@ button:active{
 .team-btn:hover {
 	text-decoration: none;
 	color:white;
-	background: #27ae60;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	border-radius: 0px;
 }
 .flux-team{
 	position: relative;
